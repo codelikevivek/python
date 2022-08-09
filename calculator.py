@@ -1,5 +1,5 @@
 first = input("Enter First Digit: ")
-operator = input("Enter Operator (+, -, *, / %) : ")
+operator = input("Enter Operator (+, -, *, /, %) : ")
 second = input("Enter Second Digit: ")
 
 first = int(first)
